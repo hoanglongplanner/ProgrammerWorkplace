@@ -8,6 +8,8 @@ Learning space to learn programming.
 - C
 - CPP
 - Dart
+- Dreambirb (not-important)
+- Rust (not-important)
 
 # Framework
 - Flutter
@@ -17,8 +19,3 @@ Learning space to learn programming.
 
 # Debugger
 - GDB (bad time will occur, brace yourself)
-
-# Resource
-- https://cplusplus.com/doc/tutorial/
-- https://github.com/ocornut/imgui
-- https://github.com/ggerganov/imtui
