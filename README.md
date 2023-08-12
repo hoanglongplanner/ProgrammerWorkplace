@@ -7,17 +7,24 @@ Learning space to learn programming.
 
 # Programming Language
 - C
+MSYS GCC
 - CPP
+MSYS G++
 - Dart
 
 # Framework
 - Flutter
+Not sure what version yet
 - GTK
-- Dear Imgui 
+Please use MSYS GTK4 Package + Glade
+- Dear Imgui
+Not sure what version yet
 - Imtui
+Not sure what version yet
 
 # Debugger
 - GDB (bad time will occur, brace yourself)
+MSYS GDB
 
 # Resource
 - https://cplusplus.com/doc/tutorial/
