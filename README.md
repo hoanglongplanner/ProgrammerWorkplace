@@ -3,6 +3,7 @@ Learning space to learn programming.
 
 # IDE
 - VSCode
+- Emacs
 
 # Programming Language
 - C
