@@ -7,9 +7,9 @@ Learning space to learn programming.
 
 # Programming Language
 - C
-MSYS GCC
+MSYS GCC Compile Version
 - CPP
-MSYS G++
+MSYS G++ Compile Version
 - Dart
 
 # Framework
@@ -24,7 +24,7 @@ Not sure what version yet
 
 # Debugger
 - GDB (bad time will occur, brace yourself)
-MSYS GDB
+MSYS GDB Compile Version
 
 # Resource
 - https://cplusplus.com/doc/tutorial/
