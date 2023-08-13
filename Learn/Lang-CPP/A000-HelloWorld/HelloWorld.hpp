@@ -1,5 +1,6 @@
 #ifdef HELLOWORLD_HPP
 #define HELLOWORLD_HPP
+#else
 
 #include <stdio.h>
 #include <iostream>
