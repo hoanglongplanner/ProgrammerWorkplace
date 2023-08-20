@@ -42,6 +42,10 @@ Raylib 4.5.0
 
 Raylib 4.5.0
 
+- Nuklear
+
+Not sure about version
+
 # Debugger
 - GDB
 
