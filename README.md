@@ -38,3 +38,4 @@ MSYS2 GNU gdb (GDB) 13.2
 - https://cplusplus.com/doc/tutorial/
 - https://github.com/ocornut/imgui
 - https://github.com/ggerganov/imtui
+- https://github.com/StudioCherno/Walnut
