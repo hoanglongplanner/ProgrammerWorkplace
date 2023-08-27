@@ -38,3 +38,12 @@ MSYS2 GNU gdb (GDB) 13.2
 - https://cplusplus.com/doc/tutorial/
 - https://github.com/ocornut/imgui
 - https://github.com/ggerganov/imtui
+<<<<<<< Updated upstream
+=======
+- https://github.com/StudioCherno/Walnut
+- https://github.com/mackron/miniaudio
+
+## Raylib
+- https://www.youtube.com/@andrewhamelcodes712 (Raylib - VSCode - Raylib Installation)
+- https://www.youtube.com/shorts/q0gxwjBSmX4 (Raylib - Visual Studio 2022)
+>>>>>>> Stashed changes
