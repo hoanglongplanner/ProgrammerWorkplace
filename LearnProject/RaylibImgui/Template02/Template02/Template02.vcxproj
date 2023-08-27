@@ -104,7 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(ProjectDir)3rdParty\raylib-4.5.0_win64_msvc16\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)3rdParty\rlImgui-20230827;$(ProjectDir)3rdParty\raylib-4.5.0_win64_msvc16\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -130,11 +130,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Src\CerberusFrameworkRaylib\Audio\CFR_Audio.cpp" />
+    <ClCompile Include="Src\CerberusGameFramework\GameProgram\CFR_GameProgram.cpp" />
+    <ClCompile Include="Src\CerberusFrameworkRaylib\Logger\CFR_Logger.cpp" />
     <ClCompile Include="Src\RaylibProgram.cpp" />
-    <ClCompile Include="Src\Cerb\CERB_GameProgram.cpp" />
     <ClCompile Include="Src\Program.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Src\CerberusFrameworkRaylib\Audio\CFR_Audio.h" />
+    <ClInclude Include="Src\CerberusGameFramework\GameProgram\CFR_GameProgram.h" />
+    <ClInclude Include="Src\CerberusFrameworkRaylib\Logger\CFR_Logger.h" />
     <ClInclude Include="Src\RaylibProgram.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
